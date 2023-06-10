@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-13T22:43:49.494Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-05-12T22:43:49.494Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 120,
+      "createdAt": "2023-05-14T22:43:49.494Z"
+    },
+    {
+      "description": "Pão",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 5,
+      "createdAt": "2023-05-16T01:42:04.174Z",
+      "id": 4
+    },
+    {
+      "description": "Arroz",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 7,
+      "createdAt": "2023-05-16T02:02:28.988Z",
+      "id": 5
+    },
+    {
+      "description": "Feijão",
+      "category": "Alim",
+      "type": "income",
+      "price": 7,
+      "createdAt": "2023-05-17T01:35:41.478Z",
+      "id": 6
+    }
+  ]
+}
